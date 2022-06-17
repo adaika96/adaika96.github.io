@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in electrical engineering, University of El Oued, 2018
+* M.S. in Elctrical Control, University of El Oued, 2021
+* Ph.D in Elctrical Control, University El Oued, 2022 (expected)
 
 Work experience
 ======
